@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name        Thread Opener Dark
-// @version     0.1
+// @version     0.2
 // @description Adds buttons to open all threads in list and all unread threads in list
-// @match       https://forum.sexy-egirls.com/forums/*
-// @match       https://forum.sexy-egirls.com/watched/*
-// @match       https://forum.sexy-egirls.com/search/*
-// @match       https://onlyfansforum.famousinternetgirls.com/forums/*
+// @match       https://forum.thotsbay.com/watched/*
+// @match       https://forum.thotsbay.com/forums/*
+// @match       https://forum.thotsbay.com/search/*
 // @match       https://forums.socialmediagirls.com/watched/*
 // @grant       GM_addStyle
 // ==/UserScript==
