@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Alerts Opener Dark
 // @version     0.1
-// @description Adds buttons to open all threads in list and all unread threads in list
+// @description Adds buttons to open all unread alerts or all alerts on the alerts page
 // @match       https://forum.thotsbay.com/account/alerts*
 // @grant       GM_addStyle
 // ==/UserScript==
